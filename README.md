@@ -3,13 +3,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanjim605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanjim605" height="30" width="40" /></a>
-<a href="https://facebook.com/tanjim605" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/04/08/07/18/facebook-7118901_1280.png" alt="tanjim8599" height="35" width="35" /></a>
 <a href="https://www.codechef.com/users/tanjim605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanjim605" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tanjim605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanjim605" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tanjim605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanjim605" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanjim605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanjim605" height="30" width="40" /></a>
-<a href="https://discord.gg/tanjim#8599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanjim#8599" height="30" width="40" /></a>
+<a href="https://discord.gg/tanjim605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanjim#8599" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
